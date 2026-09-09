@@ -1,6 +1,6 @@
 ## Hi there 👋, nahtheking
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/nahtheking/svg)](https://tokscale.ai/u/nahtheking)
+<a href="https://tokscale.ai/u/nahtheking"><img alt="Tokscale Stats for @nahtheking" src="https://tokscale.ai/api/embed/nahtheking/svg?template=graph&tokens=compact&cost=full" /></a>
 
 _"AI won't replace humans — but humans with AI will replace humans without AI"_
 
